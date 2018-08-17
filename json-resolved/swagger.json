@@ -2,7 +2,7 @@
   "swagger" : "2.0",
   "info" : {
     "description" : "This is a sample Petstore server.\n",
-    "version" : "1.0.42",
+    "version" : "1.0.0",
     "title" : "Swagger Petstore",
     "termsOfService" : "http://swagger.io/terms/",
     "contact" : {
